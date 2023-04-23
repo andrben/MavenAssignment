@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5734" started-at="2023-04-23T07:24:46Z" finished-at="2023-04-23T07:24:52Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5734" started-at="2023-04-23T07:24:46Z" finished-at="2023-04-23T07:24:52Z">
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="ReportSetup()[pri:0, instance:testcases.LoginTest@58ceff1]" name="ReportSetup" is-config="true" duration-ms="476" started-at="2023-04-23T07:24:46Z" finished-at="2023-04-23T07:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@58ceff1]" name="SetUp" is-config="true" duration-ms="1410" started-at="2023-04-23T07:24:47Z" finished-at="2023-04-23T07:24:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.LoginNegative(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginNegative(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@58ceff1]" name="LoginNegative" duration-ms="1442" started-at="2023-04-23T07:24:48Z" finished-at="2023-04-23T07:24:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.LoginNegative(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginNegative -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@58ceff1]" name="TearDown" is-config="true" duration-ms="67" started-at="2023-04-23T07:24:49Z" finished-at="2023-04-23T07:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@58ceff1]" name="SetUp" is-config="true" duration-ms="904" started-at="2023-04-23T07:24:49Z" finished-at="2023-04-23T07:24:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.LoginPositive(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginPositive(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@58ceff1]" name="LoginPositive" duration-ms="1354" started-at="2023-04-23T07:24:50Z" finished-at="2023-04-23T07:24:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.LoginPositive(java.lang.reflect.Method) throws com.codoid.products.exception.FilloException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPositive -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@58ceff1]" name="TearDown" is-config="true" duration-ms="67" started-at="2023-04-23T07:24:52Z" finished-at="2023-04-23T07:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="ReportClean()[pri:0, instance:testcases.LoginTest@58ceff1]" name="ReportClean" is-config="true" duration-ms="0" started-at="2023-04-23T07:24:52Z" finished-at="2023-04-23T07:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportClean -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
